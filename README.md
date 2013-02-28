@@ -1,3 +1,1 @@
-django orm 
-===============
-django orm mongo
+让django orm 支持mongo
